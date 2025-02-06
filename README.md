@@ -1,1 +1,1 @@
-# blutzuckersim
+# Simulation zur Regulation des Blutzuckerspiegels
