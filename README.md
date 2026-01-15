@@ -6,6 +6,8 @@ Diese Simulation wurde auch zu Jugend Forscht 2025/2026 hochgeladen.
 
 In dieser Repository findet man alle Dateien zur Simulation, wie die Turbowarp-Datei, die HTML-Datei und so weiter.
 
+Unter project-files findet man alle Dateien für das Projekt. Die Turbowarp-Datei (.sb3) kann man auf https://turbowarp.org/editor öffnen.
+
 
 -- Changelog --
 
@@ -23,3 +25,16 @@ In dieser Repository findet man alle Dateien zur Simulation, wie die Turbowarp-D
 1.4 Fixed a bug that caused the Gameover Screen not to show on death
 1.5 Fixed a bug that caused the Workout button to be darker than the background
 Das Changelog kann hier gefunden werden: https://taiyano.github.io/blutzuckersim/changelog.txt
+
+
+
+
+This project was created using Turbowarp by GarboMuffin which is licensed under MIT, GPL-3.0 and MPL-3.0 and Turbowarp Packager which is licensed under MPL-3.0. 
+The following extensions have been used:
+localstorage by GarboMuffin – License: MIT AND MPL-2.0
+runtimeoptions by GarboMuffin -  License: MIT AND MPL-2.0
+Animated Text by LilyMakesThings & scratchlab – License: MIT AND  LGPL-3.0
+Mouse Cursor by SharkPool – License: MIT AND MPL-2.0
+utilities by GarboMuffin und SheepMaker – License: MIT AND MPL-2.0 
+SoundExpanded by LilyMakesThings und GarboMuffin – License: MIT AND LGPL-3.0
+CanvasEffects by TheShovel und SharkPool– License: MIT
