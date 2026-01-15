@@ -4,7 +4,7 @@
   "display": "fullscreen",
   "name": "Simulation zur Regulation des Blutzuckerspiegels",
   "orientation": "landscape",
-  "scope": "/",
+  "scope": "sim.html",
   "short_name": "Blutzuckersimulation",
   "start_url": "sim.html",
   "theme_color": "#ffffff",
