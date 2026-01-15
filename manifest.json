@@ -6,7 +6,7 @@
   "orientation": "landscape",
   "scope": "/",
   "short_name": "Blutzuckersimulation",
-  "start_url": "sim.html",
+  "start_url": "/sim.html",
   "theme_color": "#ffffff",
   "lang": "de",
   "id": "blutzuckersim",
