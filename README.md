@@ -12,9 +12,28 @@ Es gibt eine Desktop-Version für die Simulation, die unter Releases gefunden we
 Alternativ gibt es auch eine PWA-Version. Diese kann installiert werden, indem man einfach auf PC Chrome oben auf den Installieren Knopf klickt, wenn sim.html geladen wurde oder auf dem Handy auf Zum Startbildschirm hinzufügen klickt auf Chrome.
 
 
+# Projekt benutzen
+
+Das Projekt befindet sich hier auf der Webseite: https://taiyano.github.io/blutzuckersim/
+
+Das Program kann hier heruntergeladen werden: https://github.com/Taiyano/blutzuckersim/releases/tag/v1.5.0
+
+
+# Jugend Forscht
+
+Das Projekt wurde bei Jugend Forscht 2025/2026 eingereicht. Es wurde am 26. Februar 2026 präsentiert.
+
+
 # Screenshots
 
-![Screenshot1](/screenshots/screenshot1.png "Hauptmenü")
+![Hauptmeneü](/screenshots/screenshot1.png "Hauptmenü")
+
+![Tutorial](/screenshots/screenshot2.png "Tutorial")
+
+![Gameplay](/screenshots/screenshot3.png "Gameplay")
+
+![Gameover](/screenshots/screenshot4.png "Gameover")
+
 
 # Changelog
 
@@ -47,14 +66,50 @@ Alternativ gibt es auch eine PWA-Version. Diese kann installiert werden, indem m
 Das Changelog kann hier gefunden werden: https://taiyano.github.io/blutzuckersim/changelog.txt
 
 
+
 # Legal
 
 This project was created using Turbowarp by GarboMuffin which is licensed under MIT, GPL-3.0 and MPL-3.0 and Turbowarp Packager which is licensed under MPL-3.0. 
+
 The following extensions have been used:
+
 localstorage by GarboMuffin – License: MIT AND MPL-2.0
+
 runtimeoptions by GarboMuffin -  License: MIT AND MPL-2.0
+
 Animated Text by LilyMakesThings & scratchlab – License: MIT AND  LGPL-3.0
+
 Mouse Cursor by SharkPool – License: MIT AND MPL-2.0
+
 utilities by GarboMuffin und SheepMaker – License: MIT AND MPL-2.0 
+
 SoundExpanded by LilyMakesThings und GarboMuffin – License: MIT AND LGPL-3.0
+
 CanvasEffects by TheShovel und SharkPool– License: MIT
+
+
+# License
+
+This project is under the MIT-License:
+
+MIT License
+
+Copyright (c) 2026 HAIYAN GAMES
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
