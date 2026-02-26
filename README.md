@@ -1,4 +1,5 @@
 # Simulation zur Regulation des Blutzuckerspiegels
+
 Dies ist eine Simulation zur Regulation des Blutzuckerspiegels für den Unterricht oder den privaten Gebrauch. 
 Sie kann hier aufgerufen werden: https://taiyano.github.io/blutzuckersim/
 
@@ -65,6 +66,10 @@ Das Projekt wurde bei Jugend Forscht 2025/2026 eingereicht. Es wurde am 26. Febr
 
 Das Changelog kann hier gefunden werden: https://taiyano.github.io/blutzuckersim/changelog.txt
 
+
+# Source-Code
+
+Der Sourcecode lässt sich unter /project-files/ ansehen. Dort kann man die Turbowarp-Datei herunterladen und im Turbowarp-Editor hochladen.
 
 
 # Legal
