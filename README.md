@@ -27,7 +27,7 @@ Das Projekt wurde bei Jugend Forscht 2025/2026 eingereicht. Es wurde am 26. Febr
 
 # Screenshots
 
-![Hauptmeneü](/screenshots/screenshot1.png "Hauptmenü")
+![Hauptmeneü](/screenshots/screenshot5.png "Hauptmenü")
 
 ![Tutorial](/screenshots/screenshot2.png "Tutorial")
 
