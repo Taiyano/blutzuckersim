@@ -1,4 +1,4 @@
-### Simulation zur Regulation des Blutzuckerspiegels
+# Simulation zur Regulation des Blutzuckerspiegels
 Dies ist eine Simulation zur Regulation des Blutzuckerspiegels für den Unterricht oder den privaten Gebrauch. 
 Sie kann hier aufgerufen werden: https://taiyano.github.io/blutzuckersim/
 
@@ -11,6 +11,10 @@ Unter project-files findet man alle Dateien für das Projekt. Die Turbowarp-Date
 Es gibt eine Desktop-Version für die Simulation, die unter Releases gefunden werden kann (Auf PC ganz rechts). 
 Alternativ gibt es auch eine PWA-Version. Diese kann installiert werden, indem man einfach auf PC Chrome oben auf den Installieren Knopf klickt, wenn sim.html geladen wurde oder auf dem Handy auf Zum Startbildschirm hinzufügen klickt auf Chrome.
 
+
+# Screenshots
+
+![Screenshot1](/screenshots/screenshot1.png "Hauptmenü")
 
 # Changelog
 
