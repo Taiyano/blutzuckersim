@@ -27,4 +27,4 @@ CanvasEffects by TheShovel und SharkPool– License: MIT
 
 # Others
 
-To make this project possible, GitHub and GitHub Pages were used. The MIT-License was also used to guarantee maximal freedom for end users and developers.
+To make this project possible, GitHub, GitHub Pages and Google Workbox were used. The MIT-License was also used to guarantee maximal freedom for end users and developers.
