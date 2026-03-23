@@ -1,10 +1,8 @@
-// This is the "Offline page" service worker
+//Service-Worker for PWA and Page caching
 
-importScripts('https://storage.googleapis.com/workbox-cdn/releases/5.1.2/workbox-sw.js');
+importScripts('https://taiyano.github.io/blutzuckersim/service-worker-workbox.js');
 
 const CACHE = "pwabuilder-page";
-
-// TODO: replace the following with the correct offline fallback page i.e.: const offlineFallbackPage = "offline.html";
 const offlineFallbackPage = "sim.html";
 
 self.addEventListener("message", (event) => {
