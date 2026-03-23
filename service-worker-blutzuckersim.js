@@ -1,6 +1,6 @@
 //Service-Worker for PWA and Page caching
 
-importScripts('https://taiyano.github.io/blutzuckersim/service-worker-workbox.js');
+importScripts('https://storage.googleapis.com/workbox-cdn/releases/5.1.2/workbox-sw.js');
 
 const CACHE = "pwabuilder-page";
 const offlineFallbackPage = "sim.html";
