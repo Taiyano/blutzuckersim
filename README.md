@@ -92,7 +92,8 @@ SoundExpanded by LilyMakesThings und GarboMuffin – License: MIT AND LGPL-3.0
 
 CanvasEffects by TheShovel und SharkPool– License: MIT
 
-The assets used and other legal licenses can be found ![here](https://github.com/Taiyano/blutzuckersim/blob/main/LEGAL.md)
+The assets used and other legal licenses can be found here:
+![LEGAL.md](https://github.com/Taiyano/blutzuckersim/blob/main/LEGAL.md)
 
 
 # License
