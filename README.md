@@ -22,7 +22,7 @@ Das Program kann hier heruntergeladen werden: https://github.com/Taiyano/blutzuc
 
 # Jugend Forscht
 
-Das Projekt wurde bei Jugend Forscht 2025/2026 eingereicht. Es wurde am 26. Februar 2026 präsentiert.
+Das Projekt wurde bei Jugend Forscht Junior NRW 2025/2026 eingereicht. Es wurde am 26. Februar 2026 präsentiert. Es hat im Regionalwettbewerb den 1. Platz in Informatik gewonnen. Die nächste Runde findet am 09.05.2026 statt.
 
 
 # Screenshots
@@ -91,6 +91,8 @@ utilities by GarboMuffin und SheepMaker – License: MIT AND MPL-2.0
 SoundExpanded by LilyMakesThings und GarboMuffin – License: MIT AND LGPL-3.0
 
 CanvasEffects by TheShovel und SharkPool– License: MIT
+
+The assets used and other legal licenses can be found ![here](https://github.com/Taiyano/blutzuckersim/blob/main/LEGAL.md)
 
 
 # License
