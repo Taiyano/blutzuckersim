@@ -1,5 +1,8 @@
 This file contains all third-party licenses used in this project
 
+All licenses are from April 2026 and have not been updated
+
+
 # Pixabay License and Terms
 
 Pixabay Terms of Service
