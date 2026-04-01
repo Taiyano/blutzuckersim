@@ -1,4 +1,4 @@
-All Licenses of assets and tools can be found here:
+This file contains all third-party licenses used in this project
 
 # Pixabay License and Terms
 
