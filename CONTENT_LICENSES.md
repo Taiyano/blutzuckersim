@@ -1,0 +1,795 @@
+All Licenses of assets and tools can be found here:
+
+# Pixabay License and Terms
+
+Pixabay Terms of Service
+Last updated: November 18, 2024
+
+1. The basics.
+Welcome to Pixabay! Pixabay is a vibrant community of creatives sharing royalty-free content. These Terms of Service ("Terms") apply to the pixabay.com website, related websites, software, mobile apps, plug-ins and other Pixabay-operated services (collectively, the "Service(s)").
+
+These Terms govern the relationship between Pixabay, a Canva Germany GmbH brand ("we", "our" or "Pixabay") and any user of the Service ("you", "your" or "User"), including in certain circumstances, the relationship between Users. By using the Service (including by downloading and using Content from the Service, or contributing Content or Communications to the Service):
+
+you agree that you are entering into these Terms with us which will become a legally binding agreement between you and us; and
+you represent and warrant that you have the full right, power and authority to agree to and be bound by these Terms and to fully perform all of your obligations listed in these Terms.
+If you don’t agree to these Terms, please don’t use the Service.
+
+Children may not access or use the Service unless their use is directly authorised by their parent, guardian or another authorised adult who agrees to be bound by these Terms. For the purposes of these Terms, a child is a person under the age of 13 (or the minimum legal age required to provide consent for processing of personal data in the country where the child is located, noting 16 is the minimum legal age in Germany).
+
+We reserve the right, at our sole discretion, to change or modify these Terms at any time, including the right to cancel or change the licenses granted by these Terms. If we do this, we will post the most current version of these Terms on this page. We will seek to provide you with reasonable notice of any change to the Terms that, in our sole determination, materially adversely affect your rights or your use of the Service. We may provide you with this notice via the Service and/or by direct message on the Service and/or by posting on Pixabay’s public forum. By continuing to use the Service after any revised Terms become effective, you agree to be bound by the new Terms.
+
+2. Content.
+In these Terms when we refer to "Content" we are referring to the content which is available on, or uploaded to, the Service, but excluding any third party paid advertising or sponsored content (over which Pixabay has no control and we do not grant any license). Content includes, but isn’t limited to the following items:
+
+"Images", which means photographs, vector graphics, drawings and illustrations.
+"Videos", which means moving images, animations, film footage and other audio-visual representations and content.
+"Audio", which means music, sounds, sound effects and other audio representations and content.
+"Other Media", which means any other media or content which is visual or audio in nature, or a combination of these,
+and includes in each case any associated text, captions, descriptions or metadata.
+
+3. Communications.
+Pixabay also makes available various functionality across the Service which allows you to interact and communicate with the Service and with other Users, for example by:
+
+selecting a username, uploading a profile photo and creating a profile page;
+making contributions in our Pixabay forum and discussion rooms;
+leaving comments on any Content or blog articles;
+sending messages to other users via our messaging functionality; and/or
+any other communications submitted by you through the Service, together, “Communication(s)”.
+4. CC0 license.
+Some of the Content made available for download on the Service is subject to and licensed under the Creative Commons Zero (CC0) license ("CC0 Content"). CC0 Content on the Service is any content which lists a "Published date" prior to January 9, 2019. This means that to the greatest extent permitted by applicable law, the authors of that work have dedicated the work to the public domain by waiving all of his or her rights to the CC0 Content worldwide under copyright law, including all related and neighboring rights. Subject to the CC0 License Terms, the CC0 Content can be used for all personal and commercial purposes without attributing the author/ content owner of the CC0 Content or Pixabay.
+
+5. Content License granted to you for Content (other than CC0 Content).
+Subject to the Prohibited Uses described below (which you agree and acknowledge you are not entitled to engage in), when you download any Content that is not CC0 Content from the Service, we grant you an irrevocable, worldwide, perpetual (or as long as allowed by law), non-exclusive and royalty-free right to download, use, copy, modify or adapt the Content for commercial or non-commercial purposes ('Content License'). The rights granted are non-exclusive, meaning that we may also grant other users the same rights in the same Content. For the avoidance of doubt, you do not obtain any rights in any other users’ Communications.
+
+You agree and acknowledge that the following items are "Prohibited Uses" and the Content License which we grant to you is conditional on you not engaging in any of the Prohibited Uses.
+
+You cannot sell or distribute the Content (either in digital or physical form) on a Standalone basis. This includes selling or distributing Content on a Standalone basis as an image, audio, video, NFT or other digital file (including through a stock media platform), as well as a print, wallpaper, poster or on merchandise or on other physical products.
+
+When we refer to "Standalone" we mean where no creative effort has been applied to the Content and it remains in substantially the same form as it exists on the Service. To help illustrate this, here are some examples:
+
+using the Content in its original form or solely using a filter, changing colors, resizing or cropping the Content remains Standalone use.
+using the Content with a combination of images, videos, audio files, other media, text, illustrations, background features and editing techniques is not Standalone use, so long as the combined effect is to make a "new" creative work.
+If Content depicts any trademarks, logos or brands (whether two- or three-dimensional), you cannot use that Content for commercial purposes in relation to goods and services, in particular not print that Content on merchandise or other physical products for sale.
+You cannot use Content in any immoral or illegal way, especially Content which features a recognisable person. You cannot use any Content on or in conjunction with anything pornographic, obscene, offensive (including but not limited to in relation to adult entertainment venues, escort services, drug use, dating services, in a way which portrays someone as suffering from, or medicating for, a physical or mental ailment), illegal, immoral, infringing, defamatory, hateful, threatening or libellous in nature, in a political context (such as the promotion, advertisement or endorsement of any party, candidate, or elected official or in connection with any political party or viewpoint) or in breach of any law, regulation or industry code, or in any way which infringes the rights of any person or entity.
+You cannot use Content in a misleading or deceptive way. You cannot use Content in a way that is misleading or deceptive, including without limit:
+by suggesting that any depicted person, brand, organisation or other third party endorses or is affiliated with you or your goods or services, unless permission has been granted; or
+by giving the impression that Content was created by you, or a person other than the intellectual property rights holder of the Content (including without limitation, by claiming or giving the impression that you hold ownership of, or exclusive rights to, the Content).
+You cannot use any of the Content as part of a trade-mark, design-mark, trade-name, business name or service mark.
+In addition to the Prohibited Uses, please be aware that certain Content (including CC0 Content) may be subject to additional intellectual property rights (such as copyrights, trademarks, design rights), moral rights, proprietary rights, property rights, privacy rights or similar. This includes but is not limited to identifiable people, logos, brands of all kinds (whether two- or three- dimensional), goods or services, buildings and architecture, audio or video samples and organisations.
+
+Before using any Content (including CC0 Content), you must consider whether you require the consent of a third party or a license to use the Content. If your use of the Content is for commercial purposes (e.g. in conjunction with the sale or promotion of a product or service) then it is likely that you will need consent or a license. Responsibility for determining whether permissions are needed always rests solely and exclusively with you. We do not warrant that any consents or licenses have been obtained in relation to any Content, and we expressly disclaim any and all responsibility and liability in relation to such matters.
+
+6. Attribution.
+You do not need to credit Pixabay or the contributor of Content when you use it, but it is certainly appreciated when you do so - especially when the use is of an editorial nature, where photo credits are more customary. You can provide credit in the following format: "by [Contributor] via Pixabay".
+
+7A. Uploading Content or Communications.
+We are always grateful when you choose to contribute Content or Communications to our Service. For us to be able to make the Content and Communications available for other users, it is important that we receive specific rights and promises from you as a contributor. You are responsible for the Content and Communications you upload to the Service and you do so subject to the following terms and conditions:
+
+When you upload any Content to the Service you grant Pixabay an irrevocable, perpetual (or as long as allowed by law), worldwide, non-exclusive, royalty-free license (with the right to sub-license) to use, store, market, reproduce, display, exhibit, broadcast, publicly perform, enhance, alter, adapt, modify or download the Content (in whole or in part) for any purpose whether now known or created in the future, including both commercial and non-commercial purposes. This includes the right to redistribute the Content under the Content License, or any other license or terms offered by Pixabay now or in the future, including via an API.
+When you upload any Communications to the Service you grant Pixabay an irrevocable, perpetual (or as long as allowed by law), worldwide, non-exclusive, royalty-free license (with the right to sub-license) to use, store, reproduce, display, exhibit, broadcast, publicly perform, enhance, alter, adapt, modify or download the Communications (in whole or in part) for the purpose of operating the Service and displaying the Communications to other Users.
+You expressly represent and warrant that:
+you and you alone own all rights, title and interest in and to any Content or Communications you upload to the Service; and
+the Content or Communications do not, and use of the Content or Communications in accordance with these Terms will not, infringe the intellectual property rights, moral rights, proprietary rights, property rights, privacy rights or similar of any person or entity; and
+you have obtained (and shall retain a copy of) any and all releases, permissions or licenses necessary to enable the use of the Content or Communications in accordance with these Terms. This includes non-exclusive, perpetual (or as long as allowed by law), irrevocable, worldwide, and royalty-free model and/or property releases, and/or any other permissions necessary concerning the use of the Content for any purpose, without any conditions, unless such conditions are required by law; and
+you agree to execute such further documents as may be reasonably required to give effect to Pixabay’s rights.
+You acknowledge and agree that your Content will be made available to the public for personal and commercial use of third parties subject to these Terms, without providing you attribution or compensation. You acknowledge and agree that your Communications will be made available to the public, without providing you attribution or compensation. You acknowledge and agree that Pixabay, its affiliates, and any third party partners specifically authorised by Pixabay may use your Content, your Communications and your general usage and activity data from Pixabay (which includes things like your analytic events and search queries) to develop, improve and provide their services, including through the use of machine learning technology. If you don’t want your Content to be used for machine learning, you can manage how we use your Content by opting out of future AI training by updating your preferences in your account settings at any time.
+You agree not to upload Content, upload Communications or use the Service, directly or indirectly, in any manner that:
+Promotes or creates a risk of physical or mental harm, emotional distress, death, disability, or disfigurement to yourself, any person, or animal;
+Promotes or creates a risk of harm, loss, or damage to any property;
+Seeks to harm or exploit children;
+Is harassing, abusive, racially or ethnically offensive, defamatory, invasive of personal privacy or publicity rights, libelous, or threatening;
+Discriminates, incites, or promotes discrimination against others based on race, religion, sex, sexual orientation, age, disability, ancestry, national origin, or any other basis;
+Is sexually explicit or pornographic in nature or contains links to such material;
+Involves the sale or promotion of illegal activities, products, or services;
+Is fraudulent or promotes fraudulent activity;
+Violates the rights of any individual or third party, including their intellectual property and data privacy rights;
+Contains any information or content that you do not have a right to make available under any law or due to confidentiality, contractual, or fiduciary duties;
+Contains any information or disinformation that is false, deceptive, or misleading or otherwise promotes, endorses, encourages, or facilitates the spread of false information;
+Violates any applicable law or promotes activities that are illegal in nature; or
+Threatens or undermines democratic processes or institutions.
+You agree not to upload Content or Communications that contain signatures, watermarks or are advertisements.
+Your Content is subject to the following guidelines:
+Photo Quality Guidelines: https://pixabay.com/blog/posts/image-quality-guidelines-22/
+Audio Quality Guidelines: https://pixabay.com/blog/posts/audio-quality-guidelines-182/
+Illustrations Quality Guidelines: https://pixabay.com/blog/posts/illustration-quality-guidelines-271/
+GIF Quality Guidelines: https://pixabay.com/blog/posts/gif-quality-guidelines-232/
+Video Quality Guidelines: https://pixabay.com/blog/posts/video-quality-guidelines-68/
+Your Communications are subject to the following guidelines:
+Forum Rules and Communication Guidelines: https://pixabay.com/blog/posts/forum-rules-and-communication-guidelines-on-pixaba-159/
+We reserve the right to remove any Content or Communications from the Service at any time and for any reason, at our discretion. This applies in particular to defective files, inferior quality Content, Content or Communications which are in violation of these Terms and for any reason relating to potential legal issues. For more information about how we moderate Content and Communications, please see here.
+
+7B. Uploading Content created with generative AI technology.
+You may upload Content you have created with generative AI technology (i.e. machine learning tools that generate content from text prompts or other inputs) to the Service. If you do, the following specific conditions apply, in addition to section 7A.
+
+You are responsible for ensuring that the terms of the generative AI technology you have used permit you to grant the license and give the warranties outlined in section 7A.
+You must clearly label any Content which is AI-generated by selecting the "AI-generated" checkbox on the upload page.
+You must not tag any Content which is AI-generated with the names of any real people, artists, trademarks or brands.
+You must not upload any Content which is AI-generated that mimics the style of another artist or attempts to reproduce copyright or trademark protected material, or the image of a real person.
+8. Use of the Service.
+You may be required to register with us to access and use certain features of the Service. If you choose to register for the Service, you agree to provide and maintain true, accurate, and current information as prompted by the Service's registration form. Registration data and other information you provide through the Service is subject to our Privacy Policy. You are responsible for any activity conducted on your account. You may not allow any other party to access or use the Service with your unique username, password, or other security code. Your username must not infringe any third party rights or be offensive, vulgar or obscene.
+
+In using the Service, you acknowledge and agree that:
+
+Data mining, extraction, scraping and the use of programs or robots for automatic data collection and/or extraction of digital data on the Service and/or the content available therein is strictly prohibited for all unauthorised purposes, including without limitation for machine learning purposes.
+The technology and software underlying or distributed in connection with the Service is owned by us and our licensors, affiliates and partners. We do not grant any rights in such software to you. You must not copy, modify, create a derivative work from, reverse engineer, reverse assemble or otherwise attempt to discover any source code, sell, assign, sublicense, or otherwise transfer any right in such technology or software, unless we grant our express permission in advance.
+Bulk, large-scale or systematic copying of Content is strictly prohibited unless explicit permission has been granted by us.
+You will not yourself or through any third party:
+copy, replicate, decompile, reverse-engineer, attempt to derive the source code of, modify, or create derivative works of the Service, or any part thereof;
+use or compile any Content to replicate a similar or competing service to the Service, or copy the look or feel or the Service;
+use the Service to transmit unsolicited messages or engage in spamming;
+use the Service to store or transmit any virus or malicious code;
+impersonate any other person or entity on the Service, or impersonate any non-existent relationship with such persons;
+use or exploit any metatags or other hidden texts containing our name or any of our trademarks without our express written consent;
+collect, store or use any personal information, including member names or profiles, about other users;
+access the Service for purposes of performance benchmarking or for building or marketing a competitive product; or
+bypass any measures we may use to prevent or restrict access to the Service, including without limitation features that prevent or restrict use or copying of any content or enforce limitations on use of the Service or the Content.
+The compilation of the Content is copyrighted as a collective work and/or compilation in accordance with copyright laws, international conventions and other intellectual property laws.
+9. Term and termination.
+These Terms shall take effect the first time you access the Service and shall continue in full force and effect until your account is deleted or terminated. If Pixabay, in its reasonable discretion, determines that you, your Content, your Communications or your use of the Service violate these Terms, Pixabay may take one of the following actions: delete the prohibited Content or Communications; (ii) suspend your access to the Service; (iii) terminate and delete your account; (iv) permanently ban you from using the Service; and/or (v) disclose the prohibited Content, Communication or activity to appropriate government authorities. Upon termination, your right to use the Service will immediately cease. The Service may not be accessed by any Users previously removed from the Service by Pixabay.
+
+10. Reporting and takedown policies.
+Pixabay respects the rights of creatives. If you believe that your intellectual property rights have been infringed by Content or Communications accessible through the Service, please report this via Pixabay’s in-product reporting features or use this form. Please include the following information in your report:
+
+Identification of the intellectual property right you believe has been infringed.
+Identification of the Content or Communication that you believe is infringing your rights, including a URL link to where that Content or Communication appears on the Service.
+Your contact information, such as your email address.
+A statement that you have a good faith belief that use of the Content or Communication in the manner complained of is not authorised by the intellectual property rights owner, its agent, or the law.
+A declaration that the above information is accurate and that you are (or are authorised to act on behalf of) the intellectual property rights owner.
+If you believe that any Content or Communication made available on or via the Service contains a violation of the law, please report this Content or Communication via Pixabay’s in-product reporting features or use this form.
+
+Nothing in this section constitutes legal advice. We suggest you consult an attorney regarding your rights and obligations under applicable laws.
+
+11. Infringement claims.
+If you find out – from Pixabay or somewhere else – that there is a claim relating to any Content and Pixabay might be liable, you have to stop using the Content immediately, at your own expense. This applies whether the claim is threatened, potential or actual. You also have to immediately delete or remove the Content from your premises, computer systems and storage (electronic or physical); ensure that your clients, printers or ISPs do likewise; and let Pixabay know as soon as possible by emailing info@pixabay.com.
+
+12. Indemnification.
+You agree to indemnify, release and hold harmless Pixabay and its affiliates from and against any and all loss, expenses, damages, and costs, including without limitation reasonable attorneys fees, resulting from:
+
+your violation of the Terms (whether directly or indirectly); and
+claims brought by any third parties arising out of your use of the Service.
+If a claim is brought by any third party, you must immediately provide us with all information that is necessary for an examination of the claim and defence. Any further claims for damages by us against you remain unaffected.
+
+13. Dispute resolution and applicable law. https://ec.europa.eu/consumers/odr/.
+Pixabay is neither obliged nor willing to participate in an arbitration procedure within the meaning of the German Consumer Dispute Resolution Act (VSBG). Pixabay will endeavour to resolve any disagreements amicably. Our email address is info@pixabay.com.
+
+The law of the Federal Republic of Germany applies to the contractual relationship between the users and Pixabay. As far as permissible, Berlin is agreed as the place of jurisdiction.
+
+14. Warranty and liability.
+THE SERVICE CONTENT AND COMMUNICATIONS ARE PROVIDED "AS IS". WE OFFER NO WARRANTY, EXPLICIT OR IMPLIED, REGARDING ANY CONTENT OR COMMUNICATION (INCLUDING ANY THIRD PARTY OR SPONSORED CONTENT OR ANY LINKS), THE SERVICE, THE ACCURACY OF ANY INFORMATION, OR ANY RIGHTS OR LICENSES UNDER THIS AGREEMENT INCLUDING, WITHOUT LIMITATION, ANY IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
+
+PIXABAY DOES NOT REPRESENT OR WARRANT THAT THE SERVICE, ANY CONTENT OR COMMUNICATION WILL MEET YOUR REQUIREMENTS OR THAT THEIR USE WILL BE UNINTERRUPTED OR ERROR FREE.
+
+ALTHOUGH PIXABAY DOES ITS BEST TO ENSURE THAT UPLOADED CONTENT OR COMMUNICATIONS ARE NOT MISUSED OR USED CONTRARY TO THE TERMS, PIXABAY CANNOT BE HELD RESPONSIBLE FOR THE ACTS OR OMISSIONS OF ITS USERS, INCLUDING ANY MISUSE OR ABUSE OF ANY CONTENT OR COMMUNICATION YOU UPLOAD.
+
+PIXABAY SHALL NOT BE LIABLE TO YOU OR TO ANY OTHER PERSON OR ENTITY FOR ANY GENERAL, PUNITIVE, SPECIAL, INDIRECT, CONSEQUENTIAL OR INCIDENTAL DAMAGES, OR LOST PROFITS OR ANY OTHER DAMAGES, COSTS OR LOSSES ARISING OUT OF YOUR USE OF THE SERVICE, THE COMMUNICATIONS OR ANY CONTENT.
+
+15. Versions and severability.
+These Terms supersede any prior representations, agreements, or understandings between you and Pixabay, whether written or oral, with respect to the Service including previous versions of the Terms. Any non-English translations of these Terms are provided for convenience only. The English version of these Terms will control.
+
+If one or more of the provisions in this agreement is found to be invalid, illegal or unenforceable in any respect, the validity, legality and enforceability of the remaining provisions should not be affected. Such provisions should be revised only to the extent necessary to make them enforceable.
+
+16. Prize draws and Promotions.
+From time to time, Pixabay may conduct prize draws, contests or promotions (“Promotion”), which will be governed by separate additional terms and conditions, which will be published on the Service or otherwise notified to you by Pixabay. By participating in any Promotion, you agree to those additional terms and acknowledge our Privacy Policy.
+
+
+# MIT
+
+The MIT License has been used multiple times. Please replace the <COPYRIGHT HOLDER> with the desired tool.
+
+Copyright 2026 <COPYRIGHT HOLDER>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+# MPL-2.0
+
+1. Definitions
+1.1. “Contributor”
+means each individual or legal entity that creates, contributes to the creation of, or owns Covered Software.
+
+1.2. “Contributor Version”
+means the combination of the Contributions of others (if any) used by a Contributor and that particular Contributor’s Contribution.
+
+1.3. “Contribution”
+means Covered Software of a particular Contributor.
+
+1.4. “Covered Software”
+means Source Code Form to which the initial Contributor has attached the notice in Exhibit A, the Executable Form of such Source Code Form, and Modifications of such Source Code Form, in each case including portions thereof.
+
+1.5. “Incompatible With Secondary Licenses”
+means
+
+that the initial Contributor has attached the notice described in Exhibit B to the Covered Software; or
+
+that the Covered Software was made available under the terms of version 1.1 or earlier of the License, but not also under the terms of a Secondary License.
+
+1.6. “Executable Form”
+means any form of the work other than Source Code Form.
+
+1.7. “Larger Work”
+means a work that combines Covered Software with other material, in a separate file or files, that is not Covered Software.
+
+1.8. “License”
+means this document.
+
+1.9. “Licensable”
+means having the right to grant, to the maximum extent possible, whether at the time of the initial grant or subsequently, any and all of the rights conveyed by this License.
+
+1.10. “Modifications”
+means any of the following:
+
+any file in Source Code Form that results from an addition to, deletion from, or modification of the contents of Covered Software; or
+
+any new file in Source Code Form that contains any Covered Software.
+
+1.11. “Patent Claims” of a Contributor
+means any patent claim(s), including without limitation, method, process, and apparatus claims, in any patent Licensable by such Contributor that would be infringed, but for the grant of the License, by the making, using, selling, offering for sale, having made, import, or transfer of either its Contributions or its Contributor Version.
+
+1.12. “Secondary License”
+means either the GNU General Public License, Version 2.0, the GNU Lesser General Public License, Version 2.1, the GNU Affero General Public License, Version 3.0, or any later versions of those licenses.
+
+1.13. “Source Code Form”
+means the form of the work preferred for making modifications.
+
+1.14. “You” (or “Your”)
+means an individual or a legal entity exercising rights under this License. For legal entities, “You” includes any entity that controls, is controlled by, or is under common control with You. For purposes of this definition, “control” means (a) the power, direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, or (b) ownership of more than fifty percent (50%) of the outstanding shares or beneficial ownership of such entity.
+
+2. License Grants and Conditions
+2.1. Grants
+Each Contributor hereby grants You a world-wide, royalty-free, non-exclusive license:
+
+under intellectual property rights (other than patent or trademark) Licensable by such Contributor to use, reproduce, make available, modify, display, perform, distribute, and otherwise exploit its Contributions, either on an unmodified basis, with Modifications, or as part of a Larger Work; and
+
+under Patent Claims of such Contributor to make, use, sell, offer for sale, have made, import, and otherwise transfer either its Contributions or its Contributor Version.
+
+2.2. Effective Date
+The licenses granted in Section 2.1 with respect to any Contribution become effective for each Contribution on the date the Contributor first distributes such Contribution.
+
+2.3. Limitations on Grant Scope
+The licenses granted in this Section 2 are the only rights granted under this License. No additional rights or licenses will be implied from the distribution or licensing of Covered Software under this License. Notwithstanding Section 2.1(b) above, no patent license is granted by a Contributor:
+
+for any code that a Contributor has removed from Covered Software; or
+
+for infringements caused by: (i) Your and any other third party’s modifications of Covered Software, or (ii) the combination of its Contributions with other software (except as part of its Contributor Version); or
+
+under Patent Claims infringed by Covered Software in the absence of its Contributions.
+
+This License does not grant any rights in the trademarks, service marks, or logos of any Contributor (except as may be necessary to comply with the notice requirements in Section 3.4).
+
+2.4. Subsequent Licenses
+No Contributor makes additional grants as a result of Your choice to distribute the Covered Software under a subsequent version of this License (see Section 10.2) or under the terms of a Secondary License (if permitted under the terms of Section 3.3).
+
+2.5. Representation
+Each Contributor represents that the Contributor believes its Contributions are its original creation(s) or it has sufficient rights to grant the rights to its Contributions conveyed by this License.
+
+2.6. Fair Use
+This License is not intended to limit any rights You have under applicable copyright doctrines of fair use, fair dealing, or other equivalents.
+
+2.7. Conditions
+Sections 3.1, 3.2, 3.3, and 3.4 are conditions of the licenses granted in Section 2.1.
+
+3. Responsibilities
+3.1. Distribution of Source Form
+All distribution of Covered Software in Source Code Form, including any Modifications that You create or to which You contribute, must be under the terms of this License. You must inform recipients that the Source Code Form of the Covered Software is governed by the terms of this License, and how they can obtain a copy of this License. You may not attempt to alter or restrict the recipients’ rights in the Source Code Form.
+
+3.2. Distribution of Executable Form
+If You distribute Covered Software in Executable Form then:
+
+such Covered Software must also be made available in Source Code Form, as described in Section 3.1, and You must inform recipients of the Executable Form how they can obtain a copy of such Source Code Form by reasonable means in a timely manner, at a charge no more than the cost of distribution to the recipient; and
+
+You may distribute such Executable Form under the terms of this License, or sublicense it under different terms, provided that the license for the Executable Form does not attempt to limit or alter the recipients’ rights in the Source Code Form under this License.
+
+3.3. Distribution of a Larger Work
+You may create and distribute a Larger Work under terms of Your choice, provided that You also comply with the requirements of this License for the Covered Software. If the Larger Work is a combination of Covered Software with a work governed by one or more Secondary Licenses, and the Covered Software is not Incompatible With Secondary Licenses, this License permits You to additionally distribute such Covered Software under the terms of such Secondary License(s), so that the recipient of the Larger Work may, at their option, further distribute the Covered Software under the terms of either this License or such Secondary License(s).
+
+3.4. Notices
+You may not remove or alter the substance of any license notices (including copyright notices, patent notices, disclaimers of warranty, or limitations of liability) contained within the Source Code Form of the Covered Software, except that You may alter any license notices to the extent required to remedy known factual inaccuracies.
+
+3.5. Application of Additional Terms
+You may choose to offer, and to charge a fee for, warranty, support, indemnity or liability obligations to one or more recipients of Covered Software. However, You may do so only on Your own behalf, and not on behalf of any Contributor. You must make it absolutely clear that any such warranty, support, indemnity, or liability obligation is offered by You alone, and You hereby agree to indemnify every Contributor for any liability incurred by such Contributor as a result of warranty, support, indemnity or liability terms You offer. You may include additional disclaimers of warranty and limitations of liability specific to any jurisdiction.
+
+4. Inability to Comply Due to Statute or Regulation
+If it is impossible for You to comply with any of the terms of this License with respect to some or all of the Covered Software due to statute, judicial order, or regulation then You must: (a) comply with the terms of this License to the maximum extent possible; and (b) describe the limitations and the code they affect. Such description must be placed in a text file included with all distributions of the Covered Software under this License. Except to the extent prohibited by statute or regulation, such description must be sufficiently detailed for a recipient of ordinary skill to be able to understand it.
+
+5. Termination
+5.1. The rights granted under this License will terminate automatically if You fail to comply with any of its terms. However, if You become compliant, then the rights granted under this License from a particular Contributor are reinstated (a) provisionally, unless and until such Contributor explicitly and finally terminates Your grants, and (b) on an ongoing basis, if such Contributor fails to notify You of the non-compliance by some reasonable means prior to 60 days after You have come back into compliance. Moreover, Your grants from a particular Contributor are reinstated on an ongoing basis if such Contributor notifies You of the non-compliance by some reasonable means, this is the first time You have received notice of non-compliance with this License from such Contributor, and You become compliant prior to 30 days after Your receipt of the notice.
+
+5.2. If You initiate litigation against any entity by asserting a patent infringement claim (excluding declaratory judgment actions, counter-claims, and cross-claims) alleging that a Contributor Version directly or indirectly infringes any patent, then the rights granted to You by any and all Contributors for the Covered Software under Section 2.1 of this License shall terminate.
+
+5.3. In the event of termination under Sections 5.1 or 5.2 above, all end user license agreements (excluding distributors and resellers) which have been validly granted by You or Your distributors under this License prior to termination shall survive termination.
+
+6. Disclaimer of Warranty
+Covered Software is provided under this License on an “as is” basis, without warranty of any kind, either expressed, implied, or statutory, including, without limitation, warranties that the Covered Software is free of defects, merchantable, fit for a particular purpose or non-infringing. The entire risk as to the quality and performance of the Covered Software is with You. Should any Covered Software prove defective in any respect, You (not any Contributor) assume the cost of any necessary servicing, repair, or correction. This disclaimer of warranty constitutes an essential part of this License. No use of any Covered Software is authorized under this License except under this disclaimer.
+
+7. Limitation of Liability
+Under no circumstances and under no legal theory, whether tort (including negligence), contract, or otherwise, shall any Contributor, or anyone who distributes Covered Software as permitted above, be liable to You for any direct, indirect, special, incidental, or consequential damages of any character including, without limitation, damages for lost profits, loss of goodwill, work stoppage, computer failure or malfunction, or any and all other commercial damages or losses, even if such party shall have been informed of the possibility of such damages. This limitation of liability shall not apply to liability for death or personal injury resulting from such party’s negligence to the extent applicable law prohibits such limitation. Some jurisdictions do not allow the exclusion or limitation of incidental or consequential damages, so this exclusion and limitation may not apply to You.
+
+8. Litigation
+Any litigation relating to this License may be brought only in the courts of a jurisdiction where the defendant maintains its principal place of business and such litigation shall be governed by laws of that jurisdiction, without reference to its conflict-of-law provisions. Nothing in this Section shall prevent a party’s ability to bring cross-claims or counter-claims.
+
+9. Miscellaneous
+This License represents the complete agreement concerning the subject matter hereof. If any provision of this License is held to be unenforceable, such provision shall be reformed only to the extent necessary to make it enforceable. Any law or regulation which provides that the language of a contract shall be construed against the drafter shall not be used to construe this License against a Contributor.
+
+10. Versions of the License
+10.1. New Versions
+Mozilla Foundation is the license steward. Except as provided in Section 10.3, no one other than the license steward has the right to modify or publish new versions of this License. Each version will be given a distinguishing version number.
+
+10.2. Effect of New Versions
+You may distribute the Covered Software under the terms of the version of the License under which You originally received the Covered Software, or under the terms of any subsequent version published by the license steward.
+
+10.3. Modified Versions
+If you create software not governed by this License, and you want to create a new license for such software, you may create and use a modified version of this License if you rename the license and remove any references to the name of the license steward (except to note that such modified license differs from this License).
+
+10.4. Distributing Source Code Form that is Incompatible With Secondary Licenses
+If You choose to distribute Source Code Form that is Incompatible With Secondary Licenses under the terms of this version of the License, the notice described in Exhibit B of this License must be attached.
+
+Exhibit A - Source Code Form License Notice
+This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at https://mozilla.org/MPL/2.0/.
+
+If it is not possible or desirable to put the notice in a particular file, then You may include the notice in a location (such as a LICENSE file in a relevant directory) where a recipient would be likely to look for such a notice.
+
+You may add additional accurate notices of copyright ownership.
+
+Exhibit B - “Incompatible With Secondary Licenses” Notice
+This Source Code Form is “Incompatible With Secondary Licenses”, as defined by the Mozilla Public License, v. 2.0.
+
+
+# LGPL-3.0
+
+Copyright © 2007 Free Software Foundation, Inc. <https://fsf.org/>
+
+Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
+
+This version of the GNU Lesser General Public License incorporates the terms and conditions of version 3 of the GNU General Public License, supplemented by the additional permissions listed below.
+
+0. Additional Definitions.
+As used herein, “this License” refers to version 3 of the GNU Lesser General Public License, and the “GNU GPL” refers to version 3 of the GNU General Public License.
+
+“The Library” refers to a covered work governed by this License, other than an Application or a Combined Work as defined below.
+
+An “Application” is any work that makes use of an interface provided by the Library, but which is not otherwise based on the Library. Defining a subclass of a class defined by the Library is deemed a mode of using an interface provided by the Library.
+
+A “Combined Work” is a work produced by combining or linking an Application with the Library. The particular version of the Library with which the Combined Work was made is also called the “Linked Version”.
+
+The “Minimal Corresponding Source” for a Combined Work means the Corresponding Source for the Combined Work, excluding any source code for portions of the Combined Work that, considered in isolation, are based on the Application, and not on the Linked Version.
+
+The “Corresponding Application Code” for a Combined Work means the object code and/or source code for the Application, including any data and utility programs needed for reproducing the Combined Work from the Application, but excluding the System Libraries of the Combined Work.
+
+1. Exception to Section 3 of the GNU GPL.
+You may convey a covered work under sections 3 and 4 of this License without being bound by section 3 of the GNU GPL.
+
+2. Conveying Modified Versions.
+If you modify a copy of the Library, and, in your modifications, a facility refers to a function or data to be supplied by an Application that uses the facility (other than as an argument passed when the facility is invoked), then you may convey a copy of the modified version:
+
+a) under this License, provided that you make a good faith effort to ensure that, in the event an Application does not supply the function or data, the facility still operates, and performs whatever part of its purpose remains meaningful, or
+b) under the GNU GPL, with none of the additional permissions of this License applicable to that copy.
+3. Object Code Incorporating Material from Library Header Files.
+The object code form of an Application may incorporate material from a header file that is part of the Library. You may convey such object code under terms of your choice, provided that, if the incorporated material is not limited to numerical parameters, data structure layouts and accessors, or small macros, inline functions and templates (ten or fewer lines in length), you do both of the following:
+
+a) Give prominent notice with each copy of the object code that the Library is used in it and that the Library and its use are covered by this License.
+b) Accompany the object code with a copy of the GNU GPL and this license document.
+4. Combined Works.
+You may convey a Combined Work under terms of your choice that, taken together, effectively do not restrict modification of the portions of the Library contained in the Combined Work and reverse engineering for debugging such modifications, if you also do each of the following:
+
+a) Give prominent notice with each copy of the Combined Work that the Library is used in it and that the Library and its use are covered by this License.
+b) Accompany the Combined Work with a copy of the GNU GPL and this license document.
+c) For a Combined Work that displays copyright notices during execution, include the copyright notice for the Library among these notices, as well as a reference directing the user to the copies of the GNU GPL and this license document.
+d) Do one of the following:
+0) Convey the Minimal Corresponding Source under the terms of this License, and the Corresponding Application Code in a form suitable for, and under terms that permit, the user to recombine or relink the Application with a modified version of the Linked Version to produce a modified Combined Work, in the manner specified by section 6 of the GNU GPL for conveying Corresponding Source.
+1) Use a suitable shared library mechanism for linking with the Library. A suitable mechanism is one that (a) uses at run time a copy of the Library already present on the user's computer system, and (b) will operate properly with a modified version of the Library that is interface-compatible with the Linked Version.
+e) Provide Installation Information, but only if you would otherwise be required to provide such information under section 6 of the GNU GPL, and only to the extent that such information is necessary to install and execute a modified version of the Combined Work produced by recombining or relinking the Application with a modified version of the Linked Version. (If you use option 4d0, the Installation Information must accompany the Minimal Corresponding Source and Corresponding Application Code. If you use option 4d1, you must provide the Installation Information in the manner specified by section 6 of the GNU GPL for conveying Corresponding Source.)
+5. Combined Libraries.
+You may place library facilities that are a work based on the Library side by side in a single library together with other library facilities that are not Applications and are not covered by this License, and convey such a combined library under terms of your choice, if you do both of the following:
+
+a) Accompany the combined library with a copy of the same work based on the Library, uncombined with any other library facilities, conveyed under the terms of this License.
+b) Give prominent notice with the combined library that part of it is a work based on the Library, and explaining where to find the accompanying uncombined form of the same work.
+6. Revised Versions of the GNU Lesser General Public License.
+The Free Software Foundation may publish revised and/or new versions of the GNU Lesser General Public License from time to time. Such new versions will be similar in spirit to the present version, but may differ in detail to address new problems or concerns.
+
+Each version is given a distinguishing version number. If the Library as you received it specifies that a certain numbered version of the GNU Lesser General Public License “or any later version” applies to it, you have the option of following the terms and conditions either of that published version or of any later version published by the Free Software Foundation. If the Library as you received it does not specify a version number of the GNU Lesser General Public License, you may choose any version of the GNU Lesser General Public License ever published by the Free Software Foundation.
+
+If the Library as you received it specifies that a proxy can decide whether future versions of the GNU Lesser General Public License shall apply, that proxy's public statement of acceptance of any version is permanent authorization for you to choose that version for the Library.
+
+
+# SIL OFL (SIL Open Font License)
+
+PREAMBLE
+The goals of the Open Font License (OFL) are to stimulate worldwide development of collaborative font projects, to support the font creation efforts of academic and linguistic communities, and to provide a free and open framework in which fonts may be shared and improved in partnership with others.
+
+The OFL allows the licensed fonts to be used, studied, modified and redistributed freely as long as they are not sold by themselves. The fonts, including any derivative works, can be bundled, embedded, redistributed and/or sold with any software provided that any reserved names are not used by derivative works. The fonts and derivatives, however, cannot be released under any other type of license. The requirement for fonts to remain under this license does not apply to any document created using the fonts or their derivatives.
+
+DEFINITIONS
+“Font Software” refers to the set of files released by the Copyright Holder(s) under this license and clearly marked as such. This may include source files, build scripts and documentation.
+
+“Reserved Font Name” refers to any names specified as such after the copyright statement(s).
+
+“Original Version” refers to the collection of Font Software components as distributed by the Copyright Holder(s).
+
+“Modified Version” refers to any derivative made by adding to, deleting, or substituting – in part or in whole – any of the components of the Original Version, by changing formats or by porting the Font Software to a new environment.
+
+“Author” refers to any designer, engineer, programmer, technical writer or other person who contributed to the Font Software.
+
+PERMISSION & CONDITIONS
+Permission is hereby granted, free of charge, to any person obtaining a copy of the Font Software, to use, study, copy, merge, embed, modify, redistribute, and sell modified and unmodified copies of the Font Software, subject to the following conditions:
+
+Neither the Font Software nor any of its individual components, in Original or Modified Versions, may be sold by itself.
+
+Original or Modified Versions of the Font Software may be bundled, redistributed and/or sold with any software, provided that each copy contains the above copyright notice and this license. These can be included either as stand-alone text files, human-readable headers or in the appropriate machine-readable metadata fields within text or binary files as long as those fields can be easily viewed by the user.
+
+No Modified Version of the Font Software may use the Reserved Font Name(s) unless explicit written permission is granted by the corresponding Copyright Holder. This restriction only applies to the primary font name as presented to the users.
+
+The name(s) of the Copyright Holder(s) or the Author(s) of the Font Software shall not be used to promote, endorse or advertise any Modified Version, except to acknowledge the contribution(s) of the Copyright Holder(s) and the Author(s) or with their explicit written permission.
+
+The Font Software, modified or unmodified, in part or in whole, must be distributed entirely under this license, and must not be distributed under any other license. The requirement for fonts to remain under this license does not apply to any document created using the Font Software.
+
+TERMINATION
+This license becomes null and void if any of the above conditions are not met.
+
+DISCLAIMER
+THE FONT SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE.
+
+
+# Creative Commons License (CC-BY-SA 3.0)
+
+Creative Commons Legal Code
+
+Attribution-ShareAlike 3.0 Unported
+
+    CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE
+    LEGAL SERVICES. DISTRIBUTION OF THIS LICENSE DOES NOT CREATE AN
+    ATTORNEY-CLIENT RELATIONSHIP. CREATIVE COMMONS PROVIDES THIS
+    INFORMATION ON AN "AS-IS" BASIS. CREATIVE COMMONS MAKES NO WARRANTIES
+    REGARDING THE INFORMATION PROVIDED, AND DISCLAIMS LIABILITY FOR
+    DAMAGES RESULTING FROM ITS USE.
+
+License
+
+THE WORK (AS DEFINED BELOW) IS PROVIDED UNDER THE TERMS OF THIS CREATIVE
+COMMONS PUBLIC LICENSE ("CCPL" OR "LICENSE"). THE WORK IS PROTECTED BY
+COPYRIGHT AND/OR OTHER APPLICABLE LAW. ANY USE OF THE WORK OTHER THAN AS
+AUTHORIZED UNDER THIS LICENSE OR COPYRIGHT LAW IS PROHIBITED.
+
+BY EXERCISING ANY RIGHTS TO THE WORK PROVIDED HERE, YOU ACCEPT AND AGREE
+TO BE BOUND BY THE TERMS OF THIS LICENSE. TO THE EXTENT THIS LICENSE MAY
+BE CONSIDERED TO BE A CONTRACT, THE LICENSOR GRANTS YOU THE RIGHTS
+CONTAINED HERE IN CONSIDERATION OF YOUR ACCEPTANCE OF SUCH TERMS AND
+CONDITIONS.
+
+1. Definitions
+
+ a. "Adaptation" means a work based upon the Work, or upon the Work and
+    other pre-existing works, such as a translation, adaptation,
+    derivative work, arrangement of music or other alterations of a
+    literary or artistic work, or phonogram or performance and includes
+    cinematographic adaptations or any other form in which the Work may be
+    recast, transformed, or adapted including in any form recognizably
+    derived from the original, except that a work that constitutes a
+    Collection will not be considered an Adaptation for the purpose of
+    this License. For the avoidance of doubt, where the Work is a musical
+    work, performance or phonogram, the synchronization of the Work in
+    timed-relation with a moving image ("synching") will be considered an
+    Adaptation for the purpose of this License.
+ b. "Collection" means a collection of literary or artistic works, such as
+    encyclopedias and anthologies, or performances, phonograms or
+    broadcasts, or other works or subject matter other than works listed
+    in Section 1(f) below, which, by reason of the selection and
+    arrangement of their contents, constitute intellectual creations, in
+    which the Work is included in its entirety in unmodified form along
+    with one or more other contributions, each constituting separate and
+    independent works in themselves, which together are assembled into a
+    collective whole. A work that constitutes a Collection will not be
+    considered an Adaptation (as defined below) for the purposes of this
+    License.
+ c. "Creative Commons Compatible License" means a license that is listed
+    at https://creativecommons.org/compatiblelicenses that has been
+    approved by Creative Commons as being essentially equivalent to this
+    License, including, at a minimum, because that license: (i) contains
+    terms that have the same purpose, meaning and effect as the License
+    Elements of this License; and, (ii) explicitly permits the relicensing
+    of adaptations of works made available under that license under this
+    License or a Creative Commons jurisdiction license with the same
+    License Elements as this License.
+ d. "Distribute" means to make available to the public the original and
+    copies of the Work or Adaptation, as appropriate, through sale or
+    other transfer of ownership.
+ e. "License Elements" means the following high-level license attributes
+    as selected by Licensor and indicated in the title of this License:
+    Attribution, ShareAlike.
+ f. "Licensor" means the individual, individuals, entity or entities that
+    offer(s) the Work under the terms of this License.
+ g. "Original Author" means, in the case of a literary or artistic work,
+    the individual, individuals, entity or entities who created the Work
+    or if no individual or entity can be identified, the publisher; and in
+    addition (i) in the case of a performance the actors, singers,
+    musicians, dancers, and other persons who act, sing, deliver, declaim,
+    play in, interpret or otherwise perform literary or artistic works or
+    expressions of folklore; (ii) in the case of a phonogram the producer
+    being the person or legal entity who first fixes the sounds of a
+    performance or other sounds; and, (iii) in the case of broadcasts, the
+    organization that transmits the broadcast.
+ h. "Work" means the literary and/or artistic work offered under the terms
+    of this License including without limitation any production in the
+    literary, scientific and artistic domain, whatever may be the mode or
+    form of its expression including digital form, such as a book,
+    pamphlet and other writing; a lecture, address, sermon or other work
+    of the same nature; a dramatic or dramatico-musical work; a
+    choreographic work or entertainment in dumb show; a musical
+    composition with or without words; a cinematographic work to which are
+    assimilated works expressed by a process analogous to cinematography;
+    a work of drawing, painting, architecture, sculpture, engraving or
+    lithography; a photographic work to which are assimilated works
+    expressed by a process analogous to photography; a work of applied
+    art; an illustration, map, plan, sketch or three-dimensional work
+    relative to geography, topography, architecture or science; a
+    performance; a broadcast; a phonogram; a compilation of data to the
+    extent it is protected as a copyrightable work; or a work performed by
+    a variety or circus performer to the extent it is not otherwise
+    considered a literary or artistic work.
+ i. "You" means an individual or entity exercising rights under this
+    License who has not previously violated the terms of this License with
+    respect to the Work, or who has received express permission from the
+    Licensor to exercise rights under this License despite a previous
+    violation.
+ j. "Publicly Perform" means to perform public recitations of the Work and
+    to communicate to the public those public recitations, by any means or
+    process, including by wire or wireless means or public digital
+    performances; to make available to the public Works in such a way that
+    members of the public may access these Works from a place and at a
+    place individually chosen by them; to perform the Work to the public
+    by any means or process and the communication to the public of the
+    performances of the Work, including by public digital performance; to
+    broadcast and rebroadcast the Work by any means including signs,
+    sounds or images.
+ k. "Reproduce" means to make copies of the Work by any means including
+    without limitation by sound or visual recordings and the right of
+    fixation and reproducing fixations of the Work, including storage of a
+    protected performance or phonogram in digital form or other electronic
+    medium.
+
+2. Fair Dealing Rights. Nothing in this License is intended to reduce,
+limit, or restrict any uses free from copyright or rights arising from
+limitations or exceptions that are provided for in connection with the
+copyright protection under copyright law or other applicable laws.
+
+3. License Grant. Subject to the terms and conditions of this License,
+Licensor hereby grants You a worldwide, royalty-free, non-exclusive,
+perpetual (for the duration of the applicable copyright) license to
+exercise the rights in the Work as stated below:
+
+ a. to Reproduce the Work, to incorporate the Work into one or more
+    Collections, and to Reproduce the Work as incorporated in the
+    Collections;
+ b. to create and Reproduce Adaptations provided that any such Adaptation,
+    including any translation in any medium, takes reasonable steps to
+    clearly label, demarcate or otherwise identify that changes were made
+    to the original Work. For example, a translation could be marked "The
+    original work was translated from English to Spanish," or a
+    modification could indicate "The original work has been modified.";
+ c. to Distribute and Publicly Perform the Work including as incorporated
+    in Collections; and,
+ d. to Distribute and Publicly Perform Adaptations.
+ e. For the avoidance of doubt:
+
+     i. Non-waivable Compulsory License Schemes. In those jurisdictions in
+        which the right to collect royalties through any statutory or
+        compulsory licensing scheme cannot be waived, the Licensor
+        reserves the exclusive right to collect such royalties for any
+        exercise by You of the rights granted under this License;
+    ii. Waivable Compulsory License Schemes. In those jurisdictions in
+        which the right to collect royalties through any statutory or
+        compulsory licensing scheme can be waived, the Licensor waives the
+        exclusive right to collect such royalties for any exercise by You
+        of the rights granted under this License; and,
+   iii. Voluntary License Schemes. The Licensor waives the right to
+        collect royalties, whether individually or, in the event that the
+        Licensor is a member of a collecting society that administers
+        voluntary licensing schemes, via that society, from any exercise
+        by You of the rights granted under this License.
+
+The above rights may be exercised in all media and formats whether now
+known or hereafter devised. The above rights include the right to make
+such modifications as are technically necessary to exercise the rights in
+other media and formats. Subject to Section 8(f), all rights not expressly
+granted by Licensor are hereby reserved.
+
+4. Restrictions. The license granted in Section 3 above is expressly made
+subject to and limited by the following restrictions:
+
+ a. You may Distribute or Publicly Perform the Work only under the terms
+    of this License. You must include a copy of, or the Uniform Resource
+    Identifier (URI) for, this License with every copy of the Work You
+    Distribute or Publicly Perform. You may not offer or impose any terms
+    on the Work that restrict the terms of this License or the ability of
+    the recipient of the Work to exercise the rights granted to that
+    recipient under the terms of the License. You may not sublicense the
+    Work. You must keep intact all notices that refer to this License and
+    to the disclaimer of warranties with every copy of the Work You
+    Distribute or Publicly Perform. When You Distribute or Publicly
+    Perform the Work, You may not impose any effective technological
+    measures on the Work that restrict the ability of a recipient of the
+    Work from You to exercise the rights granted to that recipient under
+    the terms of the License. This Section 4(a) applies to the Work as
+    incorporated in a Collection, but this does not require the Collection
+    apart from the Work itself to be made subject to the terms of this
+    License. If You create a Collection, upon notice from any Licensor You
+    must, to the extent practicable, remove from the Collection any credit
+    as required by Section 4(c), as requested. If You create an
+    Adaptation, upon notice from any Licensor You must, to the extent
+    practicable, remove from the Adaptation any credit as required by
+    Section 4(c), as requested.
+ b. You may Distribute or Publicly Perform an Adaptation only under the
+    terms of: (i) this License; (ii) a later version of this License with
+    the same License Elements as this License; (iii) a Creative Commons
+    jurisdiction license (either this or a later license version) that
+    contains the same License Elements as this License (e.g.,
+    Attribution-ShareAlike 3.0 US)); (iv) a Creative Commons Compatible
+    License. If you license the Adaptation under one of the licenses
+    mentioned in (iv), you must comply with the terms of that license. If
+    you license the Adaptation under the terms of any of the licenses
+    mentioned in (i), (ii) or (iii) (the "Applicable License"), you must
+    comply with the terms of the Applicable License generally and the
+    following provisions: (I) You must include a copy of, or the URI for,
+    the Applicable License with every copy of each Adaptation You
+    Distribute or Publicly Perform; (II) You may not offer or impose any
+    terms on the Adaptation that restrict the terms of the Applicable
+    License or the ability of the recipient of the Adaptation to exercise
+    the rights granted to that recipient under the terms of the Applicable
+    License; (III) You must keep intact all notices that refer to the
+    Applicable License and to the disclaimer of warranties with every copy
+    of the Work as included in the Adaptation You Distribute or Publicly
+    Perform; (IV) when You Distribute or Publicly Perform the Adaptation,
+    You may not impose any effective technological measures on the
+    Adaptation that restrict the ability of a recipient of the Adaptation
+    from You to exercise the rights granted to that recipient under the
+    terms of the Applicable License. This Section 4(b) applies to the
+    Adaptation as incorporated in a Collection, but this does not require
+    the Collection apart from the Adaptation itself to be made subject to
+    the terms of the Applicable License.
+ c. If You Distribute, or Publicly Perform the Work or any Adaptations or
+    Collections, You must, unless a request has been made pursuant to
+    Section 4(a), keep intact all copyright notices for the Work and
+    provide, reasonable to the medium or means You are utilizing: (i) the
+    name of the Original Author (or pseudonym, if applicable) if supplied,
+    and/or if the Original Author and/or Licensor designate another party
+    or parties (e.g., a sponsor institute, publishing entity, journal) for
+    attribution ("Attribution Parties") in Licensor's copyright notice,
+    terms of service or by other reasonable means, the name of such party
+    or parties; (ii) the title of the Work if supplied; (iii) to the
+    extent reasonably practicable, the URI, if any, that Licensor
+    specifies to be associated with the Work, unless such URI does not
+    refer to the copyright notice or licensing information for the Work;
+    and (iv) , consistent with Ssection 3(b), in the case of an
+    Adaptation, a credit identifying the use of the Work in the Adaptation
+    (e.g., "French translation of the Work by Original Author," or
+    "Screenplay based on original Work by Original Author"). The credit
+    required by this Section 4(c) may be implemented in any reasonable
+    manner; provided, however, that in the case of a Adaptation or
+    Collection, at a minimum such credit will appear, if a credit for all
+    contributing authors of the Adaptation or Collection appears, then as
+    part of these credits and in a manner at least as prominent as the
+    credits for the other contributing authors. For the avoidance of
+    doubt, You may only use the credit required by this Section for the
+    purpose of attribution in the manner set out above and, by exercising
+    Your rights under this License, You may not implicitly or explicitly
+    assert or imply any connection with, sponsorship or endorsement by the
+    Original Author, Licensor and/or Attribution Parties, as appropriate,
+    of You or Your use of the Work, without the separate, express prior
+    written permission of the Original Author, Licensor and/or Attribution
+    Parties.
+ d. Except as otherwise agreed in writing by the Licensor or as may be
+    otherwise permitted by applicable law, if You Reproduce, Distribute or
+    Publicly Perform the Work either by itself or as part of any
+    Adaptations or Collections, You must not distort, mutilate, modify or
+    take other derogatory action in relation to the Work which would be
+    prejudicial to the Original Author's honor or reputation. Licensor
+    agrees that in those jurisdictions (e.g. Japan), in which any exercise
+    of the right granted in Section 3(b) of this License (the right to
+    make Adaptations) would be deemed to be a distortion, mutilation,
+    modification or other derogatory action prejudicial to the Original
+    Author's honor and reputation, the Licensor will waive or not assert,
+    as appropriate, this Section, to the fullest extent permitted by the
+    applicable national law, to enable You to reasonably exercise Your
+    right under Section 3(b) of this License (right to make Adaptations)
+    but not otherwise.
+
+5. Representations, Warranties and Disclaimer
+
+UNLESS OTHERWISE MUTUALLY AGREED TO BY THE PARTIES IN WRITING, LICENSOR
+OFFERS THE WORK AS-IS AND MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY
+KIND CONCERNING THE WORK, EXPRESS, IMPLIED, STATUTORY OR OTHERWISE,
+INCLUDING, WITHOUT LIMITATION, WARRANTIES OF TITLE, MERCHANTIBILITY,
+FITNESS FOR A PARTICULAR PURPOSE, NONINFRINGEMENT, OR THE ABSENCE OF
+LATENT OR OTHER DEFECTS, ACCURACY, OR THE PRESENCE OF ABSENCE OF ERRORS,
+WHETHER OR NOT DISCOVERABLE. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION
+OF IMPLIED WARRANTIES, SO SUCH EXCLUSION MAY NOT APPLY TO YOU.
+
+6. Limitation on Liability. EXCEPT TO THE EXTENT REQUIRED BY APPLICABLE
+LAW, IN NO EVENT WILL LICENSOR BE LIABLE TO YOU ON ANY LEGAL THEORY FOR
+ANY SPECIAL, INCIDENTAL, CONSEQUENTIAL, PUNITIVE OR EXEMPLARY DAMAGES
+ARISING OUT OF THIS LICENSE OR THE USE OF THE WORK, EVEN IF LICENSOR HAS
+BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+7. Termination
+
+ a. This License and the rights granted hereunder will terminate
+    automatically upon any breach by You of the terms of this License.
+    Individuals or entities who have received Adaptations or Collections
+    from You under this License, however, will not have their licenses
+    terminated provided such individuals or entities remain in full
+    compliance with those licenses. Sections 1, 2, 5, 6, 7, and 8 will
+    survive any termination of this License.
+ b. Subject to the above terms and conditions, the license granted here is
+    perpetual (for the duration of the applicable copyright in the Work).
+    Notwithstanding the above, Licensor reserves the right to release the
+    Work under different license terms or to stop distributing the Work at
+    any time; provided, however that any such election will not serve to
+    withdraw this License (or any other license that has been, or is
+    required to be, granted under the terms of this License), and this
+    License will continue in full force and effect unless terminated as
+    stated above.
+
+8. Miscellaneous
+
+ a. Each time You Distribute or Publicly Perform the Work or a Collection,
+    the Licensor offers to the recipient a license to the Work on the same
+    terms and conditions as the license granted to You under this License.
+ b. Each time You Distribute or Publicly Perform an Adaptation, Licensor
+    offers to the recipient a license to the original Work on the same
+    terms and conditions as the license granted to You under this License.
+ c. If any provision of this License is invalid or unenforceable under
+    applicable law, it shall not affect the validity or enforceability of
+    the remainder of the terms of this License, and without further action
+    by the parties to this agreement, such provision shall be reformed to
+    the minimum extent necessary to make such provision valid and
+    enforceable.
+ d. No term or provision of this License shall be deemed waived and no
+    breach consented to unless such waiver or consent shall be in writing
+    and signed by the party to be charged with such waiver or consent.
+ e. This License constitutes the entire agreement between the parties with
+    respect to the Work licensed here. There are no understandings,
+    agreements or representations with respect to the Work not specified
+    here. Licensor shall not be bound by any additional provisions that
+    may appear in any communication from You. This License may not be
+    modified without the mutual written agreement of the Licensor and You.
+ f. The rights granted under, and the subject matter referenced, in this
+    License were drafted utilizing the terminology of the Berne Convention
+    for the Protection of Literary and Artistic Works (as amended on
+    September 28, 1979), the Rome Convention of 1961, the WIPO Copyright
+    Treaty of 1996, the WIPO Performances and Phonograms Treaty of 1996
+    and the Universal Copyright Convention (as revised on July 24, 1971).
+    These rights and subject matter take effect in the relevant
+    jurisdiction in which the License terms are sought to be enforced
+    according to the corresponding provisions of the implementation of
+    those treaty provisions in the applicable national law. If the
+    standard suite of rights granted under applicable copyright law
+    includes additional rights not granted under this License, such
+    additional rights are deemed to be included in the License; this
+    License is not intended to restrict the license of any rights under
+    applicable law.
+
+
+Creative Commons Notice
+
+    Creative Commons is not a party to this License, and makes no warranty
+    whatsoever in connection with the Work. Creative Commons will not be
+    liable to You or any party on any legal theory for any damages
+    whatsoever, including without limitation any general, special,
+    incidental or consequential damages arising in connection to this
+    license. Notwithstanding the foregoing two (2) sentences, if Creative
+    Commons has expressly identified itself as the Licensor hereunder, it
+    shall have all rights and obligations of Licensor.
+
+    Except for the limited purpose of indicating to the public that the
+    Work is licensed under the CCPL, Creative Commons does not authorize
+    the use by either party of the trademark "Creative Commons" or any
+    related trademark or logo of Creative Commons without the prior
+    written consent of Creative Commons. Any permitted use will be in
+    compliance with Creative Commons' then-current trademark usage
+    guidelines, as may be published on its website or otherwise made
+    available upon request from time to time. For the avoidance of doubt,
+    this trademark restriction does not form part of the License.
+
+    Creative Commons may be contacted at https://creativecommons.org/.
