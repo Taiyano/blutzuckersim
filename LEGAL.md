@@ -1,4 +1,7 @@
-All Licenses can be found in [CONTENT_LICENSES.md](CONTENT_LICENSES.md)
+This file contains all legal information and credits.
+
+This project is under the MIT-License.
+
 
 # Assets
 
@@ -7,6 +10,14 @@ https://pixabay.com/gifs/pixel-art-pixel-retro-campfire-13625/
 https://pixabay.com/gifs/pixel-art-pixel-retro-13573/
 https://pixabay.com/gifs/pixel-art-pixel-retro-wokrout-13575/
 https://pixabay.com/gifs/pixel-art-pixel-retro-classic-gym-13574/
+
+
+# Fonts:
+Grand9kPixel (Turbowarp Builtin Font): CC-BY-SA 3.0
+Pixelify Sans (https://fonts.google.com/specimen/Pixelify+Sans): SIL OFL
+
+All other assets, code and other things are made by myself and therefore licensed under the MIT-License
+
 
 
 # Creation Tool
@@ -36,4 +47,6 @@ CanvasEffects by TheShovel und SharkPool– License: MIT
 To make this project possible, GitHub, GitHub Pages and Google Workbox were used. The MIT-License was also used to guarantee maximal freedom for end users and developers.
 
 
-# Pixabay License
+# Licenses
+
+All Licenses can be found in [CONTENT_LICENSES.md](CONTENT_LICENSES.md)
