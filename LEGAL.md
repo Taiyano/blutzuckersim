@@ -1,6 +1,12 @@
+All Licenses can be found in [CONTENT_LICENSES.md](CONTENT_LICENSES.md)
+
 # Assets
 
-Coming Soon. The assets used can be found in Credits in the game menu right now.
+The following assets are licensed under the PIXABAY License:
+https://pixabay.com/gifs/pixel-art-pixel-retro-campfire-13625/
+https://pixabay.com/gifs/pixel-art-pixel-retro-13573/
+https://pixabay.com/gifs/pixel-art-pixel-retro-wokrout-13575/
+https://pixabay.com/gifs/pixel-art-pixel-retro-classic-gym-13574/
 
 
 # Creation Tool
@@ -28,3 +34,6 @@ CanvasEffects by TheShovel und SharkPool– License: MIT
 # Others
 
 To make this project possible, GitHub, GitHub Pages and Google Workbox were used. The MIT-License was also used to guarantee maximal freedom for end users and developers.
+
+
+# Pixabay License
