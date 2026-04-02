@@ -34,8 +34,6 @@ LEGAL DISCLAIMER: These images are not open source and not licensed under the MI
   
 - Pixelify Sans (https://fonts.google.com/specimen/Pixelify+Sans): SIL OFL
 
-All other assets, code and other things are made by myself and therefore licensed under the MIT-License
-
 
 
 # Creation Tool
@@ -63,6 +61,8 @@ CanvasEffects by TheShovel und SharkPool– License: MIT
 # Others
 
 To make this project possible, GitHub, GitHub Pages and Google Workbox were used. The MIT-License was also used to guarantee maximal freedom for end users and developers.
+
+All other assets, code and other things are made by myself and therefore licensed under the MIT-License.
 
 
 # Licenses
