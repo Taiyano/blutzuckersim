@@ -6,14 +6,24 @@ This project is under the MIT-License.
 # Assets
 
 The following assets are licensed under the PIXABAY License:
-https://pixabay.com/gifs/pixel-art-pixel-retro-campfire-13625/ 
-https://pixabay.com/gifs/pixel-art-pixel-retro-13573/
-https://pixabay.com/gifs/pixel-art-pixel-retro-wokrout-13575/
-https://pixabay.com/gifs/pixel-art-pixel-retro-classic-gym-13574/
-https://pixabay.com/illustrations/pizza-pixel-art-pizza-pixel-art-5068912/
-https://pixabay.com/illustrations/cookie-biscuit-pixel-9181659/
-https://pixabay.com/illustrations/cake-dessert-food-pastry-delicious-9126298/
-https://pixabay.com/illustrations/bread-loaf-food-loaf-of-bread-6600574/
+
+- https://pixabay.com/gifs/pixel-art-pixel-retro-campfire-13625/
+  
+- https://pixabay.com/gifs/pixel-art-pixel-retro-13573/
+  
+- https://pixabay.com/gifs/pixel-art-pixel-retro-wokrout-13575/
+  
+- https://pixabay.com/gifs/pixel-art-pixel-retro-classic-gym-13574/
+  
+- https://pixabay.com/illustrations/pizza-pixel-art-pizza-pixel-art-5068912/
+  
+- https://pixabay.com/illustrations/cookie-biscuit-pixel-9181659/
+  
+- https://pixabay.com/illustrations/cake-dessert-food-pastry-delicious-9126298/
+  
+- https://pixabay.com/illustrations/bread-loaf-food-loaf-of-bread-6600574/
+  
+- https://pixabay.com/de/vectors/apple-obst-roter-apfel-lebensmittel-439397/
 
 LEGAL DISCLAIMER: These images are not open source and not licensed under the MIT-License. They are under the pixabay license. The author of this project is not responsible for anyone copying these images and using them illegally. The author of this project does not grant anyone permission to redistribute these assets as standalone files. The images listed above are always under the pixabay license.
 
