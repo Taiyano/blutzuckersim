@@ -29,8 +29,10 @@ LEGAL DISCLAIMER: These images are not open source and not licensed under the MI
 
 
 # Fonts:
-Grand9kPixel (Turbowarp Builtin Font): CC-BY-SA 3.0
-Pixelify Sans (https://fonts.google.com/specimen/Pixelify+Sans): SIL OFL
+
+- Grand9kPixel (Turbowarp Builtin Font): CC-BY-SA 3.0
+  
+- Pixelify Sans (https://fonts.google.com/specimen/Pixelify+Sans): SIL OFL
 
 All other assets, code and other things are made by myself and therefore licensed under the MIT-License
 
