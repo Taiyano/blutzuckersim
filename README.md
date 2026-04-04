@@ -66,6 +66,13 @@ Das Projekt wurde bei Jugend Forscht Junior NRW 2025/2026 eingereicht. Es wurde 
 
 Das Changelog kann hier gefunden werden: https://taiyano.github.io/blutzuckersim/changelog.txt
 
+V2.0
+
+---- IN DEVELOPMENT -----
+- Updated the UI
+- Optimized the code
+- Added more realism
+
 
 # Source-Code
 
