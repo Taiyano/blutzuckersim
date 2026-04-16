@@ -3,6 +3,11 @@ This file contains all legal information and credits.
 This project is under the MIT-License.
 
 
+# Disclaimer
+
+The medical informations given by this game are for educational purposes ONLY and should not be taken seriously. We do not account for any damages with the cause of information from this simulation. This simulation is NOT a medical device and should not be used for any medical decisions or monitoring.
+
+
 # Assets and Sounds
 
 The following assets are licensed under the PIXABAY License:
