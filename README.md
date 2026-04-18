@@ -27,9 +27,11 @@ Das Projekt wurde bei Jugend Forscht Junior NRW 2025/2026 eingereicht. Es wurde 
 
 # Screenshots
 
-![Hauptmeneü](/screenshots/screenshot5.png "Hauptmenü")
+![Hauptmenü](/screenshots/screenshot5.png "Hauptmenü")
 
 ![Tutorial](/screenshots/screenshot2.png "Tutorial")
+
+![Charachtererstellung](/screenshots/screenshot1.png "Charachtererstellung")
 
 ![Gameplay](/screenshots/screenshot3.png "Gameplay")
 
@@ -66,12 +68,16 @@ Das Projekt wurde bei Jugend Forscht Junior NRW 2025/2026 eingereicht. Es wurde 
 
 Das Changelog kann hier gefunden werden: https://taiyano.github.io/blutzuckersim/changelog.txt
 
-V2.0
+v2.0
 
----- IN DEVELOPMENT -----
-- Updated the UI
-- Optimized the code
-- Added more realism
+- Updated the whole UI
+- Added new Charachter Creation System
+- Updated Manuals
+- Updated animations
+- Updated buttons
+- Added multithreading
+- Made the simulation more realistic
+
 
 
 # Source-Code
