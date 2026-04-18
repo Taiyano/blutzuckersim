@@ -1,4 +1,4 @@
-# Simulation zur Regulation des Blutzuckerspiegels (v1.5)
+# Simulation zur Regulation des Blutzuckerspiegels (v2.0-BETA)
 
 Dies ist eine Simulation zur Regulation des Blutzuckerspiegels für den Unterricht oder den privaten Gebrauch. 
 Sie kann hier aufgerufen werden: https://taiyano.github.io/blutzuckersim/
@@ -89,23 +89,7 @@ Der Sourcecode lässt sich unter /project-files/ ansehen. Dort kann man die Turb
 
 This project was created using Turbowarp by GarboMuffin which is licensed under MIT, GPL-3.0 and MPL-3.0 and Turbowarp Packager which is licensed under MPL-3.0. 
 
-The following extensions have been used:
-
-localstorage by GarboMuffin – License: MIT AND MPL-2.0
-
-runtimeoptions by GarboMuffin -  License: MIT AND MPL-2.0
-
-Animated Text by LilyMakesThings & scratchlab – License: MIT AND  LGPL-3.0
-
-Mouse Cursor by SharkPool – License: MIT AND MPL-2.0
-
-utilities by GarboMuffin und SheepMaker – License: MIT AND MPL-2.0 
-
-SoundExpanded by LilyMakesThings und GarboMuffin – License: MIT AND LGPL-3.0
-
-CanvasEffects by TheShovel und SharkPool– License: MIT
-
-The assets used and other legal licenses can be found here:
+Everything can be found here:
 ![LEGAL.md](https://github.com/Taiyano/blutzuckersim/blob/main/LEGAL.md)
 
 
