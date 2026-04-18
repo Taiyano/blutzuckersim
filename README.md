@@ -1,4 +1,4 @@
-# Simulation zur Regulation des Blutzuckerspiegels
+# Simulation zur Regulation des Blutzuckerspiegels (v1.0)
 
 Dies ist eine Simulation zur Regulation des Blutzuckerspiegels für den Unterricht oder den privaten Gebrauch. 
 Sie kann hier aufgerufen werden: https://taiyano.github.io/blutzuckersim/
