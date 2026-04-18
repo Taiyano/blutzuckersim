@@ -73,6 +73,12 @@ SoundExpanded by LilyMakesThings und GarboMuffin – License: MIT AND LGPL-3.0
 
 CanvasEffects by TheShovel und SharkPool– License: MIT
 
+Delta Time by XeroName - License: MIT
+
+Custom Styles by TheShovel - License: MIT
+
+Clones Plus by LilyMakesThings - License: MIT AND LGPL-3.0
+
 
 
 # Others
