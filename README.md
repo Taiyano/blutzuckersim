@@ -17,7 +17,7 @@ Alternativ gibt es auch eine PWA-Version. Diese kann installiert werden, indem m
 
 Das Projekt befindet sich hier auf der Webseite: https://taiyano.github.io/blutzuckersim/
 
-Das Program kann hier heruntergeladen werden: https://github.com/Taiyano/blutzuckersim/releases/tag/v1.5.0
+Das Program (1.5 only) kann hier heruntergeladen werden: https://github.com/Taiyano/blutzuckersim/releases/tag/v1.5.0
 
 
 # Jugend Forscht
@@ -82,7 +82,7 @@ v2.0
 
 # Source-Code
 
-Der Sourcecode lässt sich unter /project-files/ ansehen. Dort kann man die Turbowarp-Datei herunterladen und im Turbowarp-Editor hochladen.
+Der Sourcecode lässt sich unter /source/ ansehen. Dort kann man die Turbowarp-Datei herunterladen und im Turbowarp-Editor hochladen.
 
 
 # Legal
