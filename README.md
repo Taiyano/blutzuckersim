@@ -1,4 +1,4 @@
-# Simulation zur Regulation des Blutzuckerspiegels (v2.0-BETA)
+# Simulation zur Regulation des Blutzuckerspiegels (v2.0.0)
 
 Dies ist eine Simulation zur Regulation des Blutzuckerspiegels für den Unterricht oder den privaten Gebrauch. 
 Sie kann hier aufgerufen werden: https://taiyano.github.io/blutzuckersim/
@@ -17,7 +17,7 @@ Alternativ gibt es auch eine PWA-Version. Diese kann installiert werden, indem m
 
 Das Projekt befindet sich hier auf der Webseite: https://taiyano.github.io/blutzuckersim/
 
-Das Program (1.5 only) kann hier heruntergeladen werden: https://github.com/Taiyano/blutzuckersim/releases/tag/v1.5.0
+Das Program kann hier heruntergeladen werden: https://github.com/Taiyano/blutzuckersim/releases/tag/v2.0.0
 
 
 # Jugend Forscht
