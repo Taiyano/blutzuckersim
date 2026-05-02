@@ -35,6 +35,8 @@ Das Projekt wurde bei Jugend Forscht Junior NRW 2025/2026 eingereicht. Es wurde 
 
 ![Gameplay](/screenshots/screenshot3.png "Gameplay")
 
+![Gameplay](/screenshots/gameplay-screenshot.png "Gameplay")
+
 ![Gameover](/screenshots/screenshot4.png "Gameover")
 
 
