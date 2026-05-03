@@ -26,7 +26,7 @@ Turbowarp editor can be found here:
 https://turbowarp.org/editor
 
 Packager can be found here:
-https://packager.turborwarp.org
+https://packager.turbowarp.org
 
 Other extensions source code can be found here:
 https://github.com/TurboWarp/extensions/tree/master/extensions
