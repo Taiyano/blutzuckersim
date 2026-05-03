@@ -22,5 +22,11 @@ Packager configuration for launcher.sb3
 Turbowarp sourcecode can be found here:
 https://github.com/TurboWarp
 
+Turbowarp can be found here:
+https://turbowarp.org
+
+Packager can be found here:
+https://packager.turborwarp.org
+
 Other extensions source code can be found here:
 https://github.com/TurboWarp/extensions/tree/master/extensions
