@@ -1,6 +1,6 @@
 # Source
 
-<i>Last updated: 02/05/2026</i>
+<i>Last updated: 03/05/2026</i>
 
 This folder contains all the source code from this project. 
 
@@ -12,6 +12,12 @@ This file contains the custom turbowarp extension for getting the devices operat
 
 - launcher.sb3
 This file contains the launcher at "index.html"
+
+- main-packager-settings.json
+Packager configuration for main.sb3
+
+- launcher-packager-settings.json
+Packager configuration for launcher.sb3
 
 Turbowarp sourcecode can be found here:
 https://github.com/TurboWarp
