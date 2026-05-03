@@ -1,7 +1,8 @@
 # Simulation zur Regulation des Blutzuckerspiegels (v2.0.0)
 
-Dies ist eine Simulation zur Regulation des Blutzuckerspiegels für den Unterricht oder den privaten Gebrauch. 
-Sie kann hier aufgerufen werden: https://taiyano.github.io/blutzuckersim/
+Die Simulation zur Regulation des Blutzuckerspiegels von Haiyan Games ist eine Simulation, die Personen spielerisch die Blutzuckerabläufe verdeutlichen kann.
+ 
+Die Simulation kann hier aufgerufen werden: https://taiyano.github.io/blutzuckersim/
 
 Diese Simulation wurde auch zu Jugend Forscht 2025/2026 hochgeladen.
 
