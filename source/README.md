@@ -1,14 +1,17 @@
 # Source
 
-<i>Last updated: 27/04/2026</i>
+<i>Last updated: 02/05/2026</i>
 
 This folder contains all the source code from this project. 
 
 - main.sb3
-This file contains all the code of the project
+This file contains all the code of the project ("sim.html")
 
 - getDeviceCustomTurbowarpExtension.js
 This file contains the custom turbowarp extension for getting the devices operating system to determine whether its a mobile device or not
+
+- launcher.sb3
+This file contains the launcher at "index.html"
 
 Turbowarp sourcecode can be found here:
 https://github.com/TurboWarp
