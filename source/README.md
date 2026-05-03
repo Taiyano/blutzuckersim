@@ -22,8 +22,8 @@ Packager configuration for launcher.sb3
 Turbowarp sourcecode can be found here:
 https://github.com/TurboWarp
 
-Turbowarp can be found here:
-https://turbowarp.org
+Turbowarp editor can be found here:
+https://turbowarp.org/editor
 
 Packager can be found here:
 https://packager.turborwarp.org
