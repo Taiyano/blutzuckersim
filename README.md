@@ -6,7 +6,7 @@ Die Simulation kann hier aufgerufen werden: https://taiyano.github.io/blutzucker
 
 Diese Simulation wurde auch zu Jugend Forscht 2025/2026 hochgeladen.
 
-In dieser Repository findet man alle Dateien zur Simulation, wie die Turbowarp-Datei, die HTML-Datei und so weiter.
+In dieser Repository findet man den Source-Code zur Simulation sowie Builds.
 
 Unter project-files findet man alle Dateien für das Projekt. Die Turbowarp-Datei (.sb3) kann man auf https://turbowarp.org/editor öffnen.
 
@@ -23,7 +23,7 @@ Das Program kann hier heruntergeladen werden: https://github.com/Taiyano/blutzuc
 
 # Jugend Forscht
 
-Das Projekt wurde bei Jugend Forscht Junior NRW 2025/2026 eingereicht. Es wurde am 26. Februar 2026 präsentiert. Es hat im Regionalwettbewerb den 1. Platz in Informatik gewonnen. Die nächste Runde findet am 09.05.2026 statt.
+Das Projekt wurde bei Jugend Forscht Junior NRW 2025/2026 eingereicht. Es wurde am 26. Februar 2026 präsentiert. Es hat im Regionalwettbewerb den 1. Platz in Informatik gewonnen. Im Landeswettbewerb gewann es den 2. Platz in Informatik
 
 
 # Screenshots
@@ -80,6 +80,7 @@ v2.0
 - Updated buttons
 - Added multithreading
 - Made the simulation more realistic
+- Added much more
 
 
 
