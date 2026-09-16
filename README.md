@@ -122,3 +122,8 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+# Tags:
+
+2025, 2026, german, german-language, germany, github, github-pages-website, html5, insulin, jugend-forscht, jugend-forscht-junior, jugendforscht, learning, mit-license, open-source, regelkreis, school, school-project, turbowarp, website
