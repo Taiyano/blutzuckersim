@@ -31,7 +31,7 @@ Das Projekt wurde bei Jugend Forscht Junior NRW 2025/2026 eingereicht. Es wurde 
 MUNDO.SCHULE SODIX:
 https://www.mundo.schule/details/SODIX-0001170309
 
-Bildungsserver:
+Bildungsserver Rheinland Pfalz (Omega):
 https://omg.bildung-rp.de/?doc=search&parentIdentifier=BY-00305827
 
 
