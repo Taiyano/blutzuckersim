@@ -26,6 +26,15 @@ Das Program kann hier heruntergeladen werden: https://github.com/Taiyano/blutzuc
 Das Projekt wurde bei Jugend Forscht Junior NRW 2025/2026 eingereicht. Es wurde am 26. Februar 2026 präsentiert. Es hat im Regionalwettbewerb den 1. Platz in Informatik gewonnen. Im Landeswettbewerb gewann es den 2. Platz in Informatik
 
 
+# Bildungsserver und MUNDO.SCHULE SODIX
+
+MUNDO.SCHULE SODIX:
+https://www.mundo.schule/details/SODIX-0001170309
+
+Bildungsserver:
+https://omg.bildung-rp.de/?doc=search&parentIdentifier=BY-00305827
+
+
 # Screenshots
 
 ![Hauptmenü](/screenshots/screenshot5.png "Hauptmenü")
