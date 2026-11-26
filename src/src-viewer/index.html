@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Redirecting...</title>
+        <style>
+            body {
+                text-align: center;
+                color: #ffffff;
+                background-color: #000000;
+            }
+        </style>
+    </head>
+    <body>
+        <noscript><h1>JavaScript disabled. Please click <a href="editor.html?project_url=../main.sb3"><b>here</b></a></h1></noscript>
+        <script>
+            const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
+
+            async function redirectWithDelay() {
+                console.log("Attempting to redirect in 2 seconds...");
+                await sleep(2000);
+
+                try {
+                    window.location.replace('editor.html?project_url=../main.sb3');
+                } catch (error) {
+                    console.log("Redirect failed. Please manually redirect.");
+                }
+            }
+
+            redirectWithDelay();
+        </script>
+        <h1>Redirecting to Source Code Viewer...</h1>
+        <p>SOURCE CODE: BLUTZUCKERSIM (MAIN)</p>
+        <br><br><br>
+        <img src="sugar.png" width="10%" height="10%" alt="Loading Source Code Viewer...">
+        <br><br>
+        <img src="load.gif" width="5%" height="5%" alt="Loading Spinner">
+        <br><br><br><br><br>
+        <h3>If you are not being redirected, please click <a href="editor.html?project_url=../main.sb3"><b>here</b></a></h3>
+    </body>
+</html>

@@ -95,7 +95,7 @@ v2.0
 
 # Source-Code
 
-Der Sourcecode lässt sich unter /source/ ansehen. Dort kann man die Turbowarp-Datei herunterladen und im Turbowarp-Editor hochladen.
+Der Sourcecode lässt sich unter <a href="https://github.com/Taiyano/blutzuckersim/tree/main/src">/src/</a> ansehen. Dort kann man auch den Viewer öffnen.
 
 
 # Legal
